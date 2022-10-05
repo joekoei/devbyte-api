@@ -1,0 +1,13 @@
+{
+    "name": "devbyte/api",
+    "description": "Simple API Requests for DevByte projects",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Devbyte\\Api\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
