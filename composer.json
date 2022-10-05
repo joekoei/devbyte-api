@@ -1,5 +1,5 @@
 {
-    "name": "devbyte/api",
+    "name": "devbyte/devbyte-api",
     "description": "Simple API Requests for DevByte projects",
     "type": "library",
     "autoload": {
